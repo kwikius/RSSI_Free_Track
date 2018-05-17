@@ -2,6 +2,8 @@
 Mechanics for RSSI tracker that can be 3d printed
 -------------------------------------------------
 
+The File can be viewed using FreeCAD. https://www.freecadweb.org/
+
 
 The servo is GS3360BB
 
